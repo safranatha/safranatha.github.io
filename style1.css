@@ -35,7 +35,7 @@
     background-color: antiquewhite;
     font-size: 30px;
     margin-top: 70px;
-    width: 180px;
+    display: inline-block;
 }
 
 .main-content p{
@@ -69,14 +69,15 @@
     font-size: 30px;
     background-color: antiquewhite;
     margin-bottom: 30px;
-    width: 670px;
+    width: 500px;
 }
 
 .workcontent-name{
     font-size: 30px;
     background-color: antiquewhite;
     margin-bottom: 30px;
-    width: 290px;
+    display: inline-block;
+    
 }
 
 .content-list{
@@ -84,10 +85,7 @@
     margin-right: 30px;
 }
 
-.content-list span{
-    font-size: 20px;
-    float: left;
-}
+
 
 .workcontent-list{
     height: 1600px;
